@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micheal-Lu
-- 👀 I’m interested in embedded system development
-- 🌱 I’m currently studying in University of Leeds
-- 💞️ I worked as an embedded software enginner in past two years
+- 👀 I’m interested in embedded system development.
+- 🌱 I’m currently studying in University of Leeds.
+- 💞️ I worked as an embedded software enginner in the past two years.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
